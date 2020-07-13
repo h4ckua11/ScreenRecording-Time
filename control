@@ -1,0 +1,9 @@
+Package: com.h4ckua11.screenrecordingtime
+Name: ScreenRecording Time
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Show the ScreenRecording time in the StatusBar instead of the current time.
+Maintainer: h4ckua11
+Author: h4ckua11
+Section: Tweaks
